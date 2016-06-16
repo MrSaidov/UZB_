@@ -16,13 +16,13 @@ e.a             _:En_'and@r
 // letter names
 // any letter which also appear as words should be prefixed by a _ here
 a         A:
-b         be@
-c         se@
-d         de@
-e         e@
-f         Ef
-g         x2e@
-h         hA:
+b         b
+c         s
+d         d
+e         e
+f         f
+g         g
+h         h
 i         i
 j         je@
 k         kA:
